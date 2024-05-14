@@ -1,0 +1,9 @@
+{
+	"name": "minimal_dashboard_template_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "von@thecrmcarpenters.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "minimal_dashboard_template_function",
+		"stack": "node18",
+		"type": "advancedio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

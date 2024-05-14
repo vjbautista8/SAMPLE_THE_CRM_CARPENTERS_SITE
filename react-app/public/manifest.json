@@ -1,0 +1,20 @@
+{
+  "name": "React App",
+  "short_name": "Create React App Sample",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "logo/crm_logon_new_icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "logo/crm_logon_new_icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
